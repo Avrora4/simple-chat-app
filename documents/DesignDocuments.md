@@ -19,3 +19,6 @@
 ## Background
 - The same reason Objective
 
+## Version
+- React v19
+- node v22
